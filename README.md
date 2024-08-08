@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a backend web developer that primarily uses C# and other Microsoft technologies.
 
 <!--
 **dev-NC/dev-NC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
